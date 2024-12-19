@@ -29,6 +29,16 @@ h3{
 span{
     font-size: 1em;
 }
+/* Footer */
+footer {
+    background-color: rgb(45, 105, 230); /* Red background */
+    color: gold; /* Golden text */
+    text-align: center;
+    padding: 10px;
+    margin-top: 350px;
+    font-weight: bold; /* Optional: Make the text bold */
+    background-position: bottom;
+  }
 li:hover{
     background-color: rgb(68, 136, 204);
     text-decoration: underline;
